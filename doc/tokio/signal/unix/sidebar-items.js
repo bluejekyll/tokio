@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["signal","Creates a new stream which will receive notifications when the current process receives the signal `signal`."]],"struct":[["Signal","An implementation of `Stream` for receiving a particular type of signal."],["SignalKind","Represents the specific kind of signal to listen for."]]});
